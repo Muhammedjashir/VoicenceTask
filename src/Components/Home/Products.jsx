@@ -38,7 +38,7 @@ function Products() {
   ];
 
   return (
-    <div className="bg-gray-100 flex justify-around mt-20 h-[150vh]">
+    <div className="bg-gray-100 flex-row sm:flex flex-col  justify-around mt-20 h-[150vh]">
       <div className="mt-30 ml-25">
         <div>
           <img

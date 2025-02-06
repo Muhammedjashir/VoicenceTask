@@ -2,7 +2,7 @@ import React from "react";
 
 function Card({ img, title, description }) {
   return (
-    <div className="flex justify-between rounded shadow-2xl items-center p-6">
+    <div className="flex  justify-between rounded shadow-2xl items-center p-6">
       <img className="w-[67.34px] h-[59px]" src={img} alt={title} />
       <div className="w-[270px] h-[110px]">
         <h1 className="mb-1 font-medium text-xl text-[rgb(52,63,82)] mt-7">
@@ -41,7 +41,7 @@ function Content() {
           customers choose ios.
         </h1>
 
-        <div className="flex justify-center gap-3 p-5">
+        <div className="flex flex-wrap justify-center gap-3 p-5">
           <Card
             img="https://s3-alpha-sig.figma.com/img/b2f0/1dc7/22d518e4ee45053bfa283c1ca2b852aa?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=O1WI9pWbXZ6-oV6~raaVvPd~fj1dm4K-klJQ4BTlZoJkRJDhLn~ktZnOHPREiz151w1UALm69rVAcD-G12-0WbyE4r1F~B8Z4PmfxIKpsW3dgLbgbjDafw-hEj2tkNF2vEUm1QrmucEGlaaurt~pY4mh7yjKHBlO2OIkIqYdCW5ATtpMlrHZX8jnAc-HHmt1LqB1fa2kzULUkKa6JnQ~0c7B95CYTZSEp51ND-R3Zr-hqUukEYSCHINWMMbozoAZNVe3a0fOrSInTZXG33VWb93NB0b9od6idLlGoEOhXdoIaSipXm5PBTZ6XUfy8Fl-HpgokGW38T4cJ-~SbaML2A__"
             title="Beds"
@@ -68,7 +68,7 @@ function Content() {
           </p>
         </div>
 
-        <div className="flex justify-center gap-5">
+        <div className="flex flex-wrap justify-center gap-5">
           <Product
             img="https://s3-alpha-sig.figma.com/img/3740/8e44/4bdba3a6bef9d68df2d9a06e32e96c61?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=EVr090de4whRjYEAIlkDAOUM5Vs0kFzgpNv5Ikg08ol3WOyogFkXp0i-3QCyElr7szOHIQnH3ZZXk1xVTUNUfOfJDWm~vBPDtDt4PW7FTSfqkPBp1AljewKT-ZiZhKJW9hRq~0-89oZ7tZB1rIxnAlLM3RX-zwJugWaFtYETervk68p3U9x7d5tqIQ8I7p8x~2Sc8nkAppl1hRrFta85u-e1GFxGCkk9obnIj~5EKw~kKCiiJ9yTsrZnIfeMvPmtA6ODiLoXNohHxIOAVMLLh2aYKbXt9pGnpjgXbxQeYH7T~mn1egC25sIuJVELSA1M~hZp3gp4jGo0nQXcjGx1qA__"
             title="Dining"
