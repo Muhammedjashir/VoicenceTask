@@ -67,10 +67,6 @@ function Gallery() {
             />
           </div>
         </div>
-
-        <div>
-          <div></div>
-        </div>
       </div>
     </>
   );
