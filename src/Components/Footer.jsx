@@ -21,7 +21,7 @@ const Footer = () => {
           <div className="flex items-center space-x-3">
             <img
               className="w-16 h-16"
-              src="https://s3-alpha-sig.figma.com/img/2727/769b/a74736d502746301ed573ed8940fc322?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=OJvEBQx8ME39MkTmQliRdw~HZqd~-x6T94e~femNDpx9EOfjyOH8FMWzvDtARS8YxA2-9A4Lg54ygIdByoRV41YiCP9vqZvjIrJG3ytY1HT~w~ji3f1-Zc2Hl8WZ4bsdy6ZELlVNHMj1--ZC1BgYQQ~pWYXVWDC3i1o10JJkT-taH3xx3fONGcJq3eGIQdg3NRCSCf84MyJvuWunVtVc0-LPauDYRsFg99-qII9yvduvMOP9av0k1s-Em9IB3lUmAsEgqytHLL9oReUS~rxD~4nB0zVt1rN1rjuFI0FOC2YtegMkHgGItaehqfyb3cE~451Aff9OS-QpCfHVvqXexA__"
+              src="https://s3-alpha-sig.figma.com/img/2727/769b/a74736d502746301ed573ed8940fc322?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=KgTlexK3p19bYos1Jenh3gv1grm7QhD8u4PMSay9maO5yMtb-CoC9VOGdovrzri~2j2vbCTCS5VWmnOBQs95AC6ne4Vn2NrNbgTqANiqkJXuyjza9nR6VOG2wpvGSgZyELkIjrebw6wL61g0QFM9FxAF5D~Axjsxs9nCOQeZwTezABcBGqRaSemHcJ-QDa1k1dyH3jZWQktYBNGQzcegLKOWmPdgUovaWpLEsfcD4sUOPKy29~-vA0XSlhCdY7vuEO~ULE1Vh7rAz0~ChkJxgvI78kUytpL-SrBOXvwgNN3aQ9fPetO4-F5hm9DSWYH6cHTRYjS7ESNBi450vvFcBw__"
               alt="Company Logo"
             />
             <h2 className="text-2xl font-bold ">IOS INTERIORS</h2>

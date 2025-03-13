@@ -43,17 +43,17 @@ function Content() {
 
         <div className="flex flex-wrap justify-center gap-3 p-5">
           <Card
-            img="https://s3-alpha-sig.figma.com/img/b2f0/1dc7/22d518e4ee45053bfa283c1ca2b852aa?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=O1WI9pWbXZ6-oV6~raaVvPd~fj1dm4K-klJQ4BTlZoJkRJDhLn~ktZnOHPREiz151w1UALm69rVAcD-G12-0WbyE4r1F~B8Z4PmfxIKpsW3dgLbgbjDafw-hEj2tkNF2vEUm1QrmucEGlaaurt~pY4mh7yjKHBlO2OIkIqYdCW5ATtpMlrHZX8jnAc-HHmt1LqB1fa2kzULUkKa6JnQ~0c7B95CYTZSEp51ND-R3Zr-hqUukEYSCHINWMMbozoAZNVe3a0fOrSInTZXG33VWb93NB0b9od6idLlGoEOhXdoIaSipXm5PBTZ6XUfy8Fl-HpgokGW38T4cJ-~SbaML2A__"
+            img="https://static.thenounproject.com/png/1021592-200.png"
             title="Beds"
             description="Lorem ipsum dolor sit amet consectetur adipisicing elit."
           />
           <Card
-            img="https://s3-alpha-sig.figma.com/img/6b8e/e77a/45cfde76dfe0d278b934d91c92b25a5a?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=FW7MwxHnkQvC-kFMYx1TlaNT~yGsTbw2LLSpmnvJzkGBigSHLlej-P~5ug9VqCkjo2JXntqVR0gHhKX5WCSJ7udxC-hilBvH2UcfW7TL8~f34uiKKv~T~mh2R4RFgJGXfi999M0u05rMdd4NhdNRrGGxJ8EOEBC22rWVT-dWyfnZD8tJDKKf7pFFlhZJ-dRmkaNfD8baVaXqfFFAGpqB2kwDzBOlWy-akrJZ1q7uM6~Ej8e1tahV64ThncsYJieKSZ~xKlfYJFJawou06oVJcOuiNwL27FVhVYqXsv-4e-5K0X9imsNLoxIR1utB~gHKyzpQQDQWQnx0Fwx4csgeIQ__"
+            img="https://cdn-icons-png.flaticon.com/512/1002/1002365.png"
             title="Sofa"
             description="Lorem ipsum dolor sit amet consectetur adipisicing elit."
           />
           <Card
-            img="https://s3-alpha-sig.figma.com/img/c660/d5a9/1c239c200514a17025c6d7dfda9b9c0c?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=B9~uPxguHFjFVsQukdZKuc0yLU83OzDcN1vfMSRSJVGCPFH6O8RYpwSOQj0rDDKge4570dL6kLTkuqm3qLO016M~-eZliVjSrtC6M3jBvpPTKHdaMBdRmz5pt7tMMynLSpHVzVqf4iSALdMry3PPYHO9ay9WUY6Q40jxpeWySzmP1FBMvaRilkImXrCNI3Ni~LmFd5na~JRdfI8-InYtwVtncB3Y-JCaKmVwKFupWRc6LB0pv2XAmbUK3G4HW~jATeSInT7UaeDxYFQ8cYNAIcQCoII5Bau1kUeJiccp~caEHVKE1taWL0eNrtR4AsACJA3erqbkDenwEqZKQJPzSA__"
+            img="https://cdn-icons-png.flaticon.com/512/93/93701.png"
             title="Lamb"
             description="Lorem ipsum dolor sit amet consectetur adipisicing elit."
           />
@@ -70,15 +70,15 @@ function Content() {
 
         <div className="flex flex-wrap justify-center gap-5">
           <Product
-            img="https://s3-alpha-sig.figma.com/img/3740/8e44/4bdba3a6bef9d68df2d9a06e32e96c61?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=EVr090de4whRjYEAIlkDAOUM5Vs0kFzgpNv5Ikg08ol3WOyogFkXp0i-3QCyElr7szOHIQnH3ZZXk1xVTUNUfOfJDWm~vBPDtDt4PW7FTSfqkPBp1AljewKT-ZiZhKJW9hRq~0-89oZ7tZB1rIxnAlLM3RX-zwJugWaFtYETervk68p3U9x7d5tqIQ8I7p8x~2Sc8nkAppl1hRrFta85u-e1GFxGCkk9obnIj~5EKw~kKCiiJ9yTsrZnIfeMvPmtA6ODiLoXNohHxIOAVMLLh2aYKbXt9pGnpjgXbxQeYH7T~mn1egC25sIuJVELSA1M~hZp3gp4jGo0nQXcjGx1qA__"
+            img="https://homebliss.in/wp-content/uploads/2023/12/shutterstock_1962527464-1024x678.jpg"
             title="Dining"
           />
           <Product
-            img="https://s3-alpha-sig.figma.com/img/b7e3/92a7/f3961ca2b1edab00f7a7640b3c2ed666?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kiv4EKrYQrFcyPUb7cQw19airmIJ9LmWet9T2l3thXFiYMLJLv-K80rc8YvpkCbcDwcny8N8JnbWZUDWqn1fLzpGdje~ym-OcMQUH0ktt3oxCvQmDrBAfVzJezyAf5pyOq7XIZP6l5Jyjf8UL83ryE3wwHtWQ1VfjtuXdKMmTn436mWoepXyIHpQpjG~LbaVEIs8MR2fL3HxxbZhw73Twny50UAMYNAg1sECDCx6OR9A00a2upBOoFeHNASmuskKiCw45N3WAZNvNcDBu8GDS586d8PmAE6tPnuq~RdXUeAbIZz975Ua6fvacXmOHJUgYx8n1porTvl~lh2uOIL4Wg__"
+            img="https://www.home-designing.com/wp-content/uploads/2021/10/curved-living-room-furniture.jpg"
             title="Living"
           />
           <Product
-            img="https://s3-alpha-sig.figma.com/img/77e4/946e/ec6e291e21c9694ce22e6c5b50d777fe?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Ek-sMcpcWjVpJFQ6x3o0q9MiryzT9L4FDqQ-M4O7XjDNBwE4bUQMirf4~2mB0J~Xc54AmeGGuR0PUAtFnK0fUXEwqnP0hNwD713czJQt-hhTfmPC9-WfkRg6qZI-~6QJ-XPA7Gox8TUdKy95u56dW-vqGbYoBxIafoZWrHB~kr5qJxIczGUmy~zFjlo0SiKbBSVWz7aDBUB9DWmljwXGs4iKVQ2tg-j-Z8Dn4JlqUoFLrQzuxBTYGLT40ra3VSE5gaEbP~4G1D-sMYTbL6snzy9hdOoQTBxflDqdYf8I5NmwtQhsGKs57fWfWG1DsvBsCi-uxR5PW0dXONvhtoQwYw__"
+            img="https://static1.squarespace.com/static/600310fb2f57da1e2e6c8383/t/6447d6b688a2dc70edbdd10b/1682429622476/aesthetic-bedroom-ideas-6.jpeg?format=1500w"
             title="Bedroom"
           />
         </div>
@@ -99,7 +99,7 @@ function Content() {
         <div className="w-[850px] h-[400px] mt-25">
           <img
             className="w-full h-full object-cover"
-            src="https://s3-alpha-sig.figma.com/img/1b0e/928b/a30baf2924d2d5cd10cd8f198d8723ef?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=SOIXGWj~7aiYIcJJrbDwEeZPb2CbTrz~NO8XEOn~-V7AIJDbxvlk8Yprz3evOuwCM3Bgq71GDaDmVQYdD4Nt5JCzBBgX7vYPQj-V8MHzk2mzGa5ZZmb14xO36RJvArc7ZC8FbBFIpAUvPTNkUtehqgnLWLvLi6yZQE1b0uN2J3GS48Zp3hktqexnya6Wdo0JYAmraUt71kdEKGOFmUu4V6HYpY~sXVsHOWNsaBP1zYZpdDfMKzlWC71n0tSQLujNwaWolGwDki9EVMra~FkUp6wgY4mfCnd9rvkmhgndEutLI2Q-fx-oduquiIwAY9gQS7l4nIMROXky1WREzE0WVQ__"
+            src="https://img.koalaliving.com.au/products/126623/d4c04f85-686d-4e20-b3be-2e1649aad64a.png"
             alt=""
           />
         </div>

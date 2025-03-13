@@ -6,49 +6,49 @@ const products = [
     name: "Syltherine",
     description: "Stylish cafe chair",
     image:
-      "https://s3-alpha-sig.figma.com/img/4491/a0ea/43eebd52ea72d60650f31030ec4bf7e6?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=BCtS0zr-jfsMZLcXB6wUTv4ylMjZIXq2s-cRmVo5-iNOq2TTtHmxmW6RDStljHhAXuyXLzPHDZUu7kxGPhAaVweEXso2l~aimD8H2myKVDvHc3HpR7wlrSMcZ7YYcdseyBfHjzC8K36DXidDH0lxMeeRL01x8NiySXxAgUejTkyTbr7QutV0dmoTU76BGLd1ZSsHsFIbuMLOi0Jw78GVTzxiGhPvcbuF8bmoTEvd9XJmXj3ZFYVmNi2PW~zWd5fSP-ao3r6CVRs0PLUqzb72geIUe0BL-wQP7BHOH8~yNpqOG49RdZQUUtZnCQLyePTnWGFmV6SZF1N-a63Zy4GDOg__",
+      "https://img.koalaliving.com.au/products/129256/2ab3ef26-9daa-43d2-987a-1995ca8bc234.png",
   },
   {
     name: "Lolito",
     description: "Luxury big sofa",
     image:
-      "https://s3-alpha-sig.figma.com/img/2084/99f3/7c62fb49f7d4a1a6a5dc5959b40150ed?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=q~AC3QUFbOD79KRagXq4inrzjWsSaFtdlJjcM~4tFFBTTs8wqGASIBfdYO14GZP9YWEbP9XnN94t55Im~EAGViWb4w7pIJkf203t8Gc2hwD0IAypE922K7PWlO3loaNkGyb80OmAVMG29o-Hf~3Bj3bL5nDiUdMF34Jrmw8n-uaE7IrYinAJTrLRStLMuQQvHMwoLhbN8OlHxldMOFSs1Ikh1ifOyG1WjJycQw6GOv2CCyQXLnyW~YQs57Il9hut4bD6qVlJkSoNQvqbc2N7CqBrWvFIELDqDyZJAqxwgvxhFAClYgTkzhFjezdTjiF~jvFb9niyRR0TtwGXSH2IXw__",
+      "https://img.koalaliving.com.au/products/129469/be968485-6fcd-438c-9614-33ff3486af6d.png",
   },
   {
     name: "Respira",
     description: "Outdoor bar table and stool",
     image:
-      "https://s3-alpha-sig.figma.com/img/3ed3/53ed/bdb0310fb379a6b1828809d2c0652533?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=s3FvJv-3QW35-ui49SdGc9eWlpQEX7PM6mn52Pd2iz3dCf0LQieU5Burall-SpkiBfCeo0e260jtqDOrIhjbmp~OnF3c3SGd26Si55SS1j-c6wA0pnQmE7RpjgjLqKatfRv9~yTUvKbU03iZO7uIh6XxfHPoLsG-5DK087MTnh9yrEdnqYzKi9cXVGyiC-Q8tHX~dG6Jn1qhWQ9kIEGH6MVU~IgCfuaSj51Xc99L4b68Ex2Es99G2RJJFFOH8cnsacXlXeCB7SG0W-IbSWoDcDAKY~iGFA6B0jIZWvl926xjIbAxBCNiJcTPsN3i688XgnGzQfPEeawmvxGHHbARTA__",
+      "https://img.koalaliving.com.au/products/129371/fd303041-5c64-4585-95c7-d58aca030cd0.png",
   },
   {
     name: "Lolito",
     description: "Luxury big sofa",
     image:
-      "https://s3-alpha-sig.figma.com/img/2084/99f3/7c62fb49f7d4a1a6a5dc5959b40150ed?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=q~AC3QUFbOD79KRagXq4inrzjWsSaFtdlJjcM~4tFFBTTs8wqGASIBfdYO14GZP9YWEbP9XnN94t55Im~EAGViWb4w7pIJkf203t8Gc2hwD0IAypE922K7PWlO3loaNkGyb80OmAVMG29o-Hf~3Bj3bL5nDiUdMF34Jrmw8n-uaE7IrYinAJTrLRStLMuQQvHMwoLhbN8OlHxldMOFSs1Ikh1ifOyG1WjJycQw6GOv2CCyQXLnyW~YQs57Il9hut4bD6qVlJkSoNQvqbc2N7CqBrWvFIELDqDyZJAqxwgvxhFAClYgTkzhFjezdTjiF~jvFb9niyRR0TtwGXSH2IXw__",
+      "https://img.koalaliving.com.au/products/129316/af4d409b-d000-4e1e-baff-67b2356f5cd9.png",
   },
   {
     name: "Grifo",
     description: "Night lamp",
     image:
-      "https://s3-alpha-sig.figma.com/img/50f3/12dc/a7c05024ab4e27374edb12195b6559e2?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=J2ZSXIamQvO8DF9EyWJtADaPqgzaBi7Ce~w5aQT55mJpu5sJftAeNVQ-NAavJnASxn653EjaGQFnnsddC~7I4muJUK77~KzGtG7MJl4k~g5fZp4nAdv7GBIm04qz3~JmHUAZgs1QvNjzdzADtOJ4JfdOi4lhGqzwkGi0xXiOMYznSsHd3yL~VvK1c2L5-sWkMTSXixZBfUnxxvzwwOo84oLLbCNaf1Nzmv4qPbe0F5ruHLU0wjKOBSgilCG5pOSh44-pJSLM2sfI5lF0IRaxwxMWBT-ZMc3Dfc6InbMk1Den-~YzoSz3icMMZidOlTuRa2~cODMrG8lCeVaIOVM3KA__",
+      "https://img.koalaliving.com.au/products/128352/89868678-1233-4624-bb0d-019493737bd3.png",
   },
   {
     name: "Muggo",
     description: "Small mug",
     image:
-      "https://s3-alpha-sig.figma.com/img/3c0a/6c98/3f9e66e49766034d57360d64e957ff6a?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=jIdhhUloDbxv6Tr~1Df85aIhybzV0SKjFTm6Df12CRKN~g3t3I3C-Gnaks69HFkaempAxrRwEu9xkNr4Ax44vOja~92TttW29qASxG-Vg0eXr5hbj4nVUo1UMt9xDD4eZZUGWl2tj2sC4gxjZfT6DgjhVqFgnW9fldWBlzSxzlBLiIuvr4WpoD2S2hDUxvEt4UmW63bMP2sMsqZ4YR2RVNtj8IDL1rLQZKTT0t6pELNMXpFyCz69BBc7VG4h9MQBEx9AwiJUA-4F736HqYS7sjKEqTytYUwkMNaKj~CQpm6p076kzZFNkPWez7m6lJ3B88KHb75q~4L2Ifnf-gYXlg__",
+      "https://img.koalaliving.com.au/products/129322/74d87251-7fb6-4ed5-86d5-31a402fb9541.png",
   },
   {
     name: "Pingky",
     description: "Cute bed set",
     image:
-      "https://s3-alpha-sig.figma.com/img/b67d/edd5/9765b31b26fb533b95b7b43e636201e6?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=J0U674atq2Av8MhcIP3HbDmwMynkRYXdK1v0J9rCUYKXFrrA9iEqBFrnU8zS09wV5N8WzHrFA4Uew-eUfnjvSQk4bd45b5zRlko3kqPE-V1dHwNnBFKsNsso4nyjz7Qf8RSxmLG7QULci4S9l12l4XsM7W4u6Fb86l~K4Sd8ZgtpG2JnPOE9xSDM9WXcaPHBJZriKooYVJ5V0T3DxVRTnEZLKqz1azH3XkLwbwD-cOmnLhetZNtC54Vl28o8bN6fq~raNr3SsQ1y-357-m7yeAiQVovuAdmsiDjIto1j0QF2n~F-TWvoZQhzmPW5mceQoZD7xMymsYx0SXc1m0FZTA__",
+      "https://img.koalaliving.com.au/products/129492/f3870a5b-08ba-4f1c-bd9e-ab4884a947ff.png",
   },
   {
     name: "Potty",
     description: "Minimalist flower pot",
     image:
-      "https://s3-alpha-sig.figma.com/img/01ee/fd24/a8aa07432237436878715846cd38a35f?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=VRRagX5CVgoAbNKeQmXD~Ur77REU4EkuTCuk9ExEzHAW9Jsft68zdcPF5hLDIaD31kmpAfyfrcfW1ttcO8jbqfw7Y3mN4W9TM1j9iYBOIyJYXOIq-NI5e-86STqQAr~lGMW5xzb1XbQ6pGGtG9suH3Ma6Q4VonvN94WQtyOTtPAoo2cxo3GwsTecmudkrcsDRZ3qbelF12g-wvFdotdTNbPIm~OQo1ZL51SrFRAupqURlkgQZPfNaIPqWnrQ3X1qN0Tk1iTRgtCjbwooZJtGOSen9Q-UvH0lzZg5HXdAaSjkpU6U3VVPep7YuYXpzTxR-ENULrW6k-SumNd-TiENug__",
+      "https://img.koalaliving.com.au/products/129389/52dc97af-068a-4259-a207-f35dc3f53cd9.png",
   },
 ];
 

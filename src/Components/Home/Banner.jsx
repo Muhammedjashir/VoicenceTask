@@ -9,7 +9,7 @@ function  Banner() {
           className="bg-cover bg-no-repeat h-[850px] flex  lg:justify-end sm:justify-center w-full items-center   "
           style={{
             backgroundImage:
-              'url("https://s3-alpha-sig.figma.com/img/98fb/219f/a11f805aade2224f1d6658764a2395df?Expires=1739750400&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kT5Jw6bL~RcOL58ZO3skvj9QPejhbrhYnea5aQMQicdQVQEjS19BKvAOhvlOrUVel2PTmUEdNOaGQeVMiEQP9JSdqwrDsFo3R9fpPNazSwk3jB1-G8mNhQOSyj6Dz2nQIhpq8pGbb5xJ~S~CYaiuSvW5frKnfAvROa6C-Z9xMoOzugrDkhN2zEiuVnR4XmHr2WlFCgRTYTcja8g2kQCY6NOY40gQmMqxQEmQxazzC4Nqywtt15mw1VdpRCTVXm7-uv9bejAId40PBRuwRTZFL3Py-qPQpT3MIVNe8J0qkforaYgHQf3l8IjYs1YK4NAlrS7Gf4fBTh2xrPPxh~ztBg__")',
+              'url("https://ds3spjfxfwgux.cloudfront.net/blog/0217dc50-075f-48f0-8645-ac77b68f93ae.png")',
           }}
         >
           <div className="bg-[rgba(255,243,227,1)] w-[600px] h-[450px] p-9 flex flex-col gap-7 justify-center mt-32">
